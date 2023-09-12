@@ -7,6 +7,10 @@
     <username>nikhilopsera/nikiop</username>
     <password>Nikhil.l66@6Dockerhub</password>
   </server>
+  <server>
+    <username>nikhilop</username>
+    <password>Nikhil.Dockerhub</password>
+  </server>
     
 </servers>
 ...

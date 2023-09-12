@@ -26,7 +26,7 @@
 <plugin>
     <groupId>com.spotify</groupId>
     <artifactId>dockerfile-maven-plugin</artifactId>
-    <version>${version}</version>
+    <version>4.0</version>
     <configuration>
         <username>nikhilopsera/nikiop</username>
         <password>Nikhil.l66@6Dockerhub</password>

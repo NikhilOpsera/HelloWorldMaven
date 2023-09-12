@@ -1,0 +1,13 @@
+<settings>
+...
+  <servers>
+...
+    <server>
+      <id>my.server</id>
+      <username>foo</username>
+      <password>"COQLCE6DU6GtcS5P="</password>
+    </server>
+...
+  </servers>
+...
+</settings>

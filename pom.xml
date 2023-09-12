@@ -22,6 +22,17 @@
            </dependency>
        </dependencies>
        <!-- end::joda[] -->
+
+<plugin>
+    <groupId>com.spotify</groupId>
+    <artifactId>dockerfile-maven-plugin</artifactId>
+    <version>${version}</version>
+    <configuration>
+        <username>nikhilopsera/nikiop</username>
+        <password>Nikhil.l66@6Dockerhub</password>
+        <repository>hello-world</repository>
+    </configuration>
+</plugin>
        
     <build>
         <plugins>

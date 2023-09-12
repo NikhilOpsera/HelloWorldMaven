@@ -2,11 +2,12 @@
 ...
   <servers>
 ...
-    <server>
-      <id>my.server</id>
-      <username>foo</username>
-      <password>"COQLCE6DU6GtcS5P="</password>
-    </server>
+  <server>
+    <id>docker-repo.example.com:8080</id>
+    <username>nikhilopsera/nikiop</username>
+    <password>Nikhil.l66@6Dockerhub</password>
+  </server>
+</servers>
 ...
   </servers>
 ...
